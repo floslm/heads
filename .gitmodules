@@ -4,3 +4,6 @@
 [submodule "siisae-test"]
 	path = siisae-test
 	url = git@github.com:pascalfares/siisae-test.git
+[submodule "mathexp"]
+	path = mathexp
+	url = git@github.com:pascalfares/mathexp.git
