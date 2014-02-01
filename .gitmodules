@@ -1,0 +1,6 @@
+[submodule "TripoliTeam"]
+	path = TripoliTeam
+	url = git@github.com:pascalfares/TripoliTeam.git
+[submodule "siisae-test"]
+	path = siisae-test
+	url = git@github.com:pascalfares/siisae-test.git
